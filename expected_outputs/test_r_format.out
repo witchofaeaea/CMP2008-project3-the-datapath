@@ -1,0 +1,68 @@
+--- Simulation Start ---
+Cycle: 0
+PC: 4
+Instruction: 0x91002BE1
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+  X1: 10
+--------------------
+Cycle: 1
+PC: 8
+Instruction: 0x91000FE2
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+  X1: 10
+  X2: 3
+--------------------
+Cycle: 2
+PC: 12
+Instruction: 0x8B020023
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: False
+  RegWrite: True
+Registers (Non-Zero):
+  X1: 10
+  X2: 3
+  X3: 13
+--------------------
+Cycle: 3
+PC: 16
+Instruction: 0xCB020024
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: False
+  RegWrite: True
+Registers (Non-Zero):
+  X1: 10
+  X2: 3
+  X3: 13
+  X4: 7
+--------------------
+--- Simulation Halted ---

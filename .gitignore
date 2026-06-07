@@ -1,0 +1,15 @@
+# Instructor-only (keep local; not for student clones of this repo layout)
+solution/
+instructor_only/
+student_template/
+test_cases/assembly/
+
+# Python
+__pycache__/
+*.py[cod]
+*.py[codz]
+*$py.class
+.DS_Store
+.venv/
+venv/
+.env

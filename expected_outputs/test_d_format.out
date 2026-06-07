@@ -1,0 +1,129 @@
+--- Simulation Start ---
+Cycle: 0
+PC: 4
+Instruction: 0x910003E1
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+--------------------
+Cycle: 1
+PC: 8
+Instruction: 0x9100ABE2
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+  X2: 42
+--------------------
+Cycle: 2
+PC: 12
+Instruction: 0xF8000C22
+Control Signals:
+  Reg2Loc: True
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 0
+  MemWrite: True
+  ALUSrc: True
+  RegWrite: False
+Registers (Non-Zero):
+  X2: 42
+--------------------
+Cycle: 3
+PC: 16
+Instruction: 0x910003E3
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+  X2: 42
+--------------------
+Cycle: 4
+PC: 20
+Instruction: 0xF8400423
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: True
+  MemtoReg: True
+  ALUOp: 0
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+  X2: 42
+  X3: 42
+--------------------
+Cycle: 5
+PC: 24
+Instruction: 0x91001FE4
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 2
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+  X2: 42
+  X3: 42
+  X4: 7
+--------------------
+Cycle: 6
+PC: 28
+Instruction: 0xF8008C24
+Control Signals:
+  Reg2Loc: True
+  Branch: False
+  MemRead: False
+  MemtoReg: False
+  ALUOp: 0
+  MemWrite: True
+  ALUSrc: True
+  RegWrite: False
+Registers (Non-Zero):
+  X2: 42
+  X3: 42
+  X4: 7
+--------------------
+Cycle: 7
+PC: 32
+Instruction: 0xF8408425
+Control Signals:
+  Reg2Loc: False
+  Branch: False
+  MemRead: True
+  MemtoReg: True
+  ALUOp: 0
+  MemWrite: False
+  ALUSrc: True
+  RegWrite: True
+Registers (Non-Zero):
+  X2: 42
+  X3: 42
+  X4: 7
+  X5: 7
+--------------------
+--- Simulation Halted ---
